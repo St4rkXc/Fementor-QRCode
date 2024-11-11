@@ -25,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://fementor-qr-2.vercel.app/)
+- Live Site URL: [Vercel](https://fementor-qr-2.vercel.app/)
 
 ## My process
 
